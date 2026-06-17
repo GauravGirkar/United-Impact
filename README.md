@@ -168,7 +168,7 @@ UnitedImpact/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/AkshatKardak/UnitedImpact.git
+git clone https://github.com/GauravGirkar/United-Impact.git
 cd UnitedImpact
 ```
 
